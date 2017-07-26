@@ -1,0 +1,2 @@
+# soft
+linux soft 
